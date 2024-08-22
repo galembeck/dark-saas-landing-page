@@ -5,7 +5,7 @@ export function Banner() {
         <p className="font-medium">
           <span className="hidden sm:inline">Introducing a completely redesigned interface - {" "}</span>
           <a href="#" className="underline underline-offset-4">
-            Explore the demo
+            Explore the demo...
           </a>
         </p>
       </div>
