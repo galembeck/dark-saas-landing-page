@@ -1,11 +1,12 @@
-import { Banner } from "@/components/banner";
+import LandingPage from "./landing/page";
+
 import { Navbar } from "@/components/navbar";
 
 export default function Home() {
   return (
     <>
-      <Banner />
       <Navbar />
+      <LandingPage />
     </>
   );
 }
