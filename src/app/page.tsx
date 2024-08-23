@@ -1,4 +1,4 @@
-import LandingPage from "./landing/page";
+import LandingPage from "./landing-page/page";
 
 import { Navbar } from "@/components/navbar";
 
